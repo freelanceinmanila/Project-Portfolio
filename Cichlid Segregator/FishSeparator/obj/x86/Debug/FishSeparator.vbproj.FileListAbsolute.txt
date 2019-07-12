@@ -1,0 +1,54 @@
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\bin\Debug\FishSeparator.exe
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\bin\Debug\FishSeparator.pdb
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\bin\Debug\FishSeparator.xml
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\obj\x86\Debug\FishSeparator.Form1.resources
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\obj\x86\Debug\FishSeparator.Resources.resources
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\obj\x86\Debug\FishSeparator.vbproj.GenerateResource.Cache
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\obj\x86\Debug\FishSeparator.exe
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\obj\x86\Debug\FishSeparator.xml
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\obj\x86\Debug\FishSeparator.pdb
+C:\Users\akin\AppData\Local\Temporary Projects\FishSeparator\obj\x86\Debug\FishSeparator.Loading.resources
+D:\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.exe
+D:\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.xml
+D:\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.pdb
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.exe
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.xml
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.pdb
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\bin\Debug\FishSeparator.exe
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\bin\Debug\FishSeparator.pdb
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\bin\Debug\FishSeparator.xml
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.Form1.resources
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.Loading.resources
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.Resources.resources
+C:\Users\HP\Desktop\FishSeparator\FishSeparator\obj\x86\Debug\FishSeparator.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.exe
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.xml
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.pdb
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\bin\Debug\FishSeparator.exe
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\bin\Debug\FishSeparator.pdb
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\bin\Debug\FishSeparator.xml
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.Loading.resources
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.Resources.resources
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.mainform.resources
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\bin\Debug\Database1.mdf
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\bin\Debug\Database1_log.ldf
+C:\Users\HP\Desktop\Cichlid Segregator\FishSeparator\bin\Debug\FishSeparator.exe.config
+D:\Cichlid Segregator\FishSeparator\bin\Debug\FishSeparator.exe.config
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.exe
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.xml
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.pdb
+D:\Cichlid Segregator\FishSeparator\bin\Debug\Database1.mdf
+D:\Cichlid Segregator\FishSeparator\bin\Debug\Database1_log.ldf
+D:\Cichlid Segregator\FishSeparator\bin\Debug\FishSeparator.exe
+D:\Cichlid Segregator\FishSeparator\bin\Debug\FishSeparator.pdb
+D:\Cichlid Segregator\FishSeparator\bin\Debug\FishSeparator.xml
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.vbprojAssemblyReference.cache
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.mainform.resources
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.Loading.resources
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.Resources.resources
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.vbproj.GenerateResource.cache
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.vbproj.CoreCompileInputs.cache
+D:\Cichlid Segregator\FishSeparator\obj\x86\Debug\FishSeparator.vbproj.CopyComplete
